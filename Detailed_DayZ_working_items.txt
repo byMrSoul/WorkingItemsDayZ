@@ -1,0 +1,48 @@
+TelescopicBaton 			- Retractable Mele
+Cleaver 				- Mele
+HockeyStick 				- Mele
+NewHockeyStick				- Mele
+PoliceBaton				- Mele
+Sickle					- Mele 
+HayHook					- Mele
+Mace					- Mele
+FarmingHoe				- Mele
+Sword					- Mele
+Pitchfork				- Mele
+Broom					- Mele
+Paddle					- Mele
+Chainsaw				- Powerful Mele, Can cut piles of planks, trees and destroy bases from outside like Pre-1.08 (fuel and 9v battery)
+CamoNetShelter				- Spawn inside an item and drop to ground to place
+Refridgerator				- 40 slot storage, takes up 70 slots, can hold with items inside it
+TrashCan				- Graphic broken, storage item, can hold with items inside it, causes lag due to broken graphic
+CannabisSeedsPack			- Everyone knows these work
+Vodka					- Spawns, Consumable, Hold 75% of the liquid a canteen can hold
+Banana					- Consumable
+Orange 					- Consumable
+Kiwi					- Consumable
+Syringe					- Spawns, Draws Blood, If you test your blood while in possession of a syringe you can test everyone's blood with the syringe
+InjectionVial				- Can combine with Syringe, unsure if it does anything when injected
+Defibrillator				- Knocks someone out, need another hit with defib to bring someone back (otherwise CPR for 2 hours)
+CigarettePack_Chernamorka		- Spawns, No use, 1 slot
+CigarettePack_Merkur			- Spawns, No use, 1 slot
+CigarettePack_Partyzanka		- Spawns, No use, 1 slot
+MessTin					- Spawns, Attaches to campfire tripod, no use
+FieldShovel				- Spawns, Functional to burry and build but not unburry
+Iceaxe					- Spawns, Functional the same as a pickaxe
+FireExtinguisher			- Spawns, can be used to extinguish fires
+MeatTenderizer				- Spawns, Functional the same as a pickaxe
+TripwireTrap				- Spawns, Does Not Function
+FishNetTrap				- Spawns, Does Not Function
+SmallFishTrap				- Spawns, Does Not Function
+RabbitSnareTrap				- Spawns, Does Not Function
+Ballerinas_Blue				- Spawns, Wearable
+Ballerinas_Red				- Spawns, Wearable
+Ballerinas_White			- Spawns, Wearable
+Ballerinas_Yellow			- Spawns, Wearable
+Land_Radio_PanelBig			- Add a radio deck in anywhere you want (the altar)
+Land_Radio_PanelPAS			- Add A PAS in anywhere you want
+SPEAKERS FOR PAS:
+Land_Power_Pole_Conc1_Amp
+Land_Power_Pole_Conc4_Lamp_Amp
+Land_Power_Pole_Wood1_Amp
+Land_Power_Pole_Wood1_Lamp_Amp
