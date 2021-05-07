@@ -30,7 +30,7 @@ MessTin					- Spawns, Attaches to campfire tripod, no use
 FieldShovel				- Spawns, Functional to burry and build but not unburry
 Iceaxe					- Spawns, Functional the same as a pickaxe
 FireExtinguisher			- Spawns, can be used to extinguish fires
-MeatTenderizer				- Spawns, Functional the same as a pickaxe
+MeatTenderizer				- Spawns, Functional the same as a hammer
 TripwireTrap				- Spawns, Does Not Function
 FishNetTrap				- Spawns, Does Not Function
 SmallFishTrap				- Spawns, Does Not Function
